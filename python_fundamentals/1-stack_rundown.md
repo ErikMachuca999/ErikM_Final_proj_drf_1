@@ -13,6 +13,8 @@ Removing from the middle of the stack is not allowed and jsut can't be done in b
 
 
 ![The Pancake Stack Analogy](topic1_stacks_analogy.jpeg)
+[Image From here](https://byui-cse.github.io/cse212-course/lesson03/pancake_stack.jpeg)
+
 
 
 

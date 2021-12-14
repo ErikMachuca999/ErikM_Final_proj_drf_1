@@ -1,7 +1,8 @@
 # Python program to
 # demonstrate stack implementation
 # using list
- 
+
+
 stack = []
  
 # remember, the append() function is the ling 
@@ -23,3 +24,17 @@ print(stack.pop())
  
 print('\nStack after elements are popped:')
 print(stack)
+
+# expected outcome would be just be written as even the code says, but it looks like this:
+'''
+The Stack
+['1', '2', '3']
+
+Elements popped from stack:     
+3
+2
+1
+
+Stack after elements are popped:
+[]
+'''

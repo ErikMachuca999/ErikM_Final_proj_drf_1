@@ -1,12 +1,13 @@
-# Python Fundamentals Tutorial
+# Python Data Structures Fundamentals Tutorial
 
-Welcome to the Python Fundamentals Tutorial.  Every beginning Python programmer should understand these basic topics:
+Welcome to the Python Data Structures Tutorial.  Every beginning Python programmer should understand these basic topics:
 
 - [“Fax about Stax”- The rundown about Stacks](1-stack_rundown.md)
 - [“Be Set with Sets” – The layout and process of Sets](2-set_process.md)
-- [Topic 3](3-topic3.md)
+- [“Being Green differently” – The paths of Binary Trees](3-binary_trees_play.md)
 
-Each module will contain descriptions and examples.  At the end of each module, you will find a problem to solve on your own.  You should only look at the solution after you have attempted to solve the problem first.
+Each module will contain descriptions and examples.  At the end of each module, you will find a problem Example to review
+actual examples to visualize more understanding of the data structures. code is to be played in vscode.
 
 ## Contact
 

@@ -11,18 +11,31 @@ set2.add(9)
 print(set1)
 print(set2)
 
-print("="*40)
+# expected:
+# {1, 2, 3, 4, 5, 6}
+# {4, 5, 6, 7, 8, 9}
+
+print("="*40) 
+#this prints out 40 "=" symbols for borders in output, separator lines to read easy
 
 set3 = set1 & set2          # The way to write an intersection using an "&"; the symbol for intersections 
 print(set3)                 # It shows the values that BOTH sets have the same as a math operation             
 print("="*40)               # of where the points of a line meet
+# expected:
+# {4, 5, 6}
+
 
 set4 = set1 | set2        #  The way of writing a union using the "|" key, to combine the numbers 
 print(set4)               # of BOTH previous sets, then to create a New set to say all numbers used!
+# expected: 
+# {1, 2, 3, 4, 5, 6, 7, 8, 9}
 print("="*40)
 
 basket = {'apple', 'orange', 'apple', 'pear', 'orange', 'banana'}
 print(basket)         # since sets don't allow duplicates, evene strings along            
+# expected:
+# {'pear', 'orange', 'banana', 'apple'}   
+
 print("="*40)         # with numbers follow that rule.
 
 
